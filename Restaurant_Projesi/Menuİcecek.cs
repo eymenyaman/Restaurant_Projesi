@@ -8,7 +8,8 @@ namespace Restaurant_Projesi
 {
     internal class MenuIcecek
     {
-        public int No { get; set; } // get olarak numara tutuyor knk
+        public int No { get; set; }
+        
         public string Ad { get; set; }
         public double Fiyat { get; set; }
 
