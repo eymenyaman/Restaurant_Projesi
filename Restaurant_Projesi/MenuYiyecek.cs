@@ -8,7 +8,7 @@ namespace Restaurant_Projesi
 {
     internal class MenuYiyecek
     {
-        public int No { get; set; } // get olarak private olarak tutuyor new list 
+        public int No { get; set; }
         public string Ad { get; set; }
         public double Fiyat { get; set; }
     }
